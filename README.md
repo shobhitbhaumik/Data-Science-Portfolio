@@ -1,5 +1,7 @@
 # Shobhit's Data Science Portfolio
 
+[Link to CV](./Shobhit%20Bhaumik%20-%20CV%20-%20September%202024)
+
 [Project 1: Kings County Housing Prices Regression Model](https://github.com/shobhitbhaumik/Kings-County-Housing-Prices)
 
 This project was completed as a capstone project for Data Science Bootcamp - TranOrg Analytics
