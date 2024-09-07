@@ -6,7 +6,7 @@
 
 This project was completed as a capstone project for Data Science Bootcamp - TranOrg Analytics
 <br>
-   Data contains Prices of houses in Kings COunty, Washington, USA along with various features such as living space, lot area, year built, and condition
+   Data contains Prices of houses in Kings County, Washington, USA along with various features such as living space, lot area, year built, and condition
    This project contains EDA and a regression model to predict house prices
    
    Tools Used:
